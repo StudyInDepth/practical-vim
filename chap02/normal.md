@@ -12,4 +12,4 @@
     < - Shift left
     = - Autoindent
     find and replace :%s/search,/replace,
-    split windows: :windo wincmd H or K
+    split windows: ^w H J K L 
